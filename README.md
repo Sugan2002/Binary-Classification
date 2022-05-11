@@ -3,20 +3,24 @@
 # <p align="center"> BINARY CLASSIFICATION</P>
 </br>
 </br>
+
 ## Aim:
 To write a python program to perform binary classification.
 </br>
 </br>
+
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 </br>
 </br>
+
 ## Related theoritical concepts
 
 Binary classification is a form of classification — the process of predicting categorical variables — where the output is restricted to two classes. It is used in many different data science applications, such as Medical Diagnosis, Email analysis, Marketing, etc. For example, in medical diagnosis, a binary classifier for a specific disease could take in symptoms of a patient and predict whether the patient is healthy or has a disease. The possible outcomes of the diagnosis are positive and negative.
 </br>
 </br>
+
 ## Algorithm
 
 1. Define dataset 
@@ -30,6 +34,7 @@ Binary classification is a form of classification — the process of predicting 
 5. Plot the dataset and color the by class label
 </br>
 </br>
+
 ## Program:
 ```python
 /*
