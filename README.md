@@ -2,6 +2,7 @@
 ### DATE: 01.04.2022
 # <p align="center"> BINARY CLASSIFICATION</P>
 </br>
+</br>
 
 ## Aim:
 To write a python program to perform binary classification.
@@ -81,7 +82,7 @@ pyplot.show()
 </br>
 </br>
 </br>
-</br>
+
 
 ## Output:
 ![output](./static/img/expO2NN.PNG)
